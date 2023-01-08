@@ -39,27 +39,27 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['628989513496', 'Bang Fd', true],
-['628989513496', 'Bang Fd', true]
+['6285230826913', 'DaviSibeban', true],
+['6285230826913', 'DaviSibeban', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '628989513496'
-global.nomorown1 = '628989513496'
-global.nomorown2 = '628989513496'
+global.nomorbot = '6281216730163'
+global.nomorown = '6285230826913'
+global.nomorown1 = '6285230826913'
+global.nomorown2 = '6285230826913'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Bang Fd'
-global.namebot = 'Bang Fd'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Bang Fd'
+global.author = 'Created By DaviSibeban'
+global.namebot = 'DavzzBotz'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 DaviSibeban'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'Bang Fd'
+global.wm2 = 'DaviSibeban'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
