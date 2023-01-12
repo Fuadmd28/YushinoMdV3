@@ -39,33 +39,33 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285230826913', 'DaviSibeban', true],
-['6285230826913', 'DaviSibeban', true]
+['628989513496', '𝘽𝙖𝙣𝙜 𝙁𝘿', true],
+['628989513496', '𝘽𝙖𝙣𝙜 𝙁𝘿', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6281216730163'
-global.nomorown = '6285230826913'
-global.nomorown1 = '6285230826913'
-global.nomorown2 = '6285230826913'
+global.nomorown = '628989513496'
+global.nomorown1 = '628989513496'
+global.nomorown2 = '628989513496'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By DaviSibeban'
-global.namebot = 'DavzzBotz'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 DaviSibeban'
+global.author = 'Created By 𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.namebot = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝘽𝙖𝙣𝙜 𝙁𝘿'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
 global.wm2 = 'DaviSibeban'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© Lazy Botzz`
+global.titlebot = `𝘽𝙖𝙣𝙜 𝙁𝘿`
+global.stickpack = '𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.stickauth = `© Neko-Bot`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -78,10 +78,10 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/_b4c00t4an_s3l3b'
-global.sgh = 'https://github.com/hyuura-official' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sgh = 'https://github.com/hyuura-offic' //github
+global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdukmmP' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.snh = 'https://youtube.com/channel/UCjoPsysjCn2dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '-'
